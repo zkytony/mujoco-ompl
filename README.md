@@ -57,7 +57,7 @@ Note: below is currently only tested on Ubuntu 20.04.
 
 **To create a plan file** (Assume you are in the repo root directory):
 ```
-./build/plan ./problems/reacher_prob.yaml -o reacher_plan.out
+./build/plan ./problems/reacher_prob.yaml -o reacher_sol.out
 ```
 The output of this program ends with
 ```
